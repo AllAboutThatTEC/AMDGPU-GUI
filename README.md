@@ -1,5 +1,5 @@
 # AMDGPU-GUI
-(hopefully,it wont be done for a while) a GUI for the AMDGPU-PRO driver for Linux based OS's for monitoring temperature, usage, etc, 
+(hopefully, it wont be done for a while) a GUI for the AMDGPU driver for Linux based OS's for monitoring temperature, usage, etc, 
 as well as easily changing config files.
 
 
