@@ -10,7 +10,7 @@ Speak now or forever hold your peace. The program will be free, open-source and 
 The first step for me at least is to create a basic Python script that will fetch all of the variables on things like temperature,
 ram usage and clock speed, etc. and print them nicely into a terminal in an easy to read manner.
 Then create another script that will change the config files accordingly based on input from a third script that handles the actual
-user interface. Here is the link to the repo: https://github.com/AllAboutThatTEC/AMDGPU-PRO-GUI
+user interface. Here is the link to the repo: https://github.com/AllAboutThatTEC/AMDGPU-GUI
 
 
 Thomas Collins
